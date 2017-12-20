@@ -1,0 +1,36 @@
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W001) Your URL pattern '^$' uses include with a regex ending with a '$'. Remove the dollar from the regex to avoid problems including URLs.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+December 18, 2017 - 22:37:07
+Django version 1.11.5, using settings 'blackbox.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W001) Your URL pattern '^$' uses include with a regex ending with a '$'. Remove the dollar from the regex to avoid problems including URLs.
+
+System check identified 1 issue (0 silenced).
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W001) Your URL pattern '^$' uses include with a regex ending with a '$'. Remove the dollar from the regex to avoid problems including URLs.
+
+System check identified 1 issue (0 silenced).
+Performing system checks...
+
+December 19, 2017 - 00:07:29
+Django version 1.11.5, using settings 'blackbox.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+System check identified some issues:
+
+WARNINGS:
+?: (urls.W001) Your URL pattern '^$' uses include with a regex ending with a '$'. Remove the dollar from the regex to avoid problems including URLs.
+
+System check identified 1 issue (0 silenced).
